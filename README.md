@@ -3,7 +3,7 @@
 <img src="https://github.com/UrielV1/titanic-project/blob/master/titanic%20pic.jpg" alt="https://github.com/UrielV1/titanic-project/blob/master/titanic%20pic" width="600"/>
 
 ## Project objectives
-The main objective of this project is to build a reliable and accurate ML model to predict the price of a diamond. 
+Predicting the survival of the Titanic passengers 
 
 ## Project description
 - A dataset of 53,940 records and 10 features is given
