@@ -1,6 +1,6 @@
 # titanic-project
 
-<img src="https://github.com/UrielV1/titanic-project/blob/master/titanic%20pic.jpg" alt="https://github.com/UrielV1/titanic-project/blob/master/titanic%20pic" width="380"/>
+<img src="https://github.com/UrielV1/titanic-project/blob/master/titanic%20pic.jpg" alt="https://github.com/UrielV1/titanic-project/blob/master/titanic%20pic" width="600"/>
 
 ## Project objectives
 The main objective of this project is to build a reliable and accurate ML model to predict the price of a diamond. 
