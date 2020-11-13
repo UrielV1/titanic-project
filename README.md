@@ -6,9 +6,9 @@
 Predicting the survival of the Titanic passengers 
 
 ## Project description
-- A dataset of 53,940 records and 10 features is given
-- The different features describe the physical and geometrical measures of the diamonds
+- A dataset of 891 records and 11 features is given
 - Data exploration & Data visualization were executed
-- Feature engineering & dimensionality reduction were executed as well
-- Random forest, KNN and MLP model were used and the parameters were tuned
-- The best score was R-squared = 0.98 with random forest model
+- Missing values were treated using different techniques
+- Logistic regression and Random forest models were used
+- Parameters were tuned as well as different combinations of features
+- The best score (accuracy) was 0.84 using logistic regression model
