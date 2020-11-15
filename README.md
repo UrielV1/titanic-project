@@ -1,6 +1,6 @@
 # titanic-project
 
-<img src="https://github.com/UrielV1/titanic-project/blob/master/titanic%20pic.jpg" alt="https://github.com/UrielV1/titanic-project/blob/master/titanic%20pic" width="600"/>
+<img src="https://github.com/UrielV1/titanic-project/blob/master/titanic%20pic.jpg" alt="https://github.com/UrielV1/titanic-project/blob/master/titanic%20pic" width="500"/>
 
 ## Project objective
 Predicting the survival of the Titanic passengers 
